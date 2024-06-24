@@ -14,7 +14,7 @@ Python 3.x
 1.Clone the repository or download the code files.
 ```bash
 git clone https://github.com/ram-prasad-sahoo/calculator.git
-cd CALCULATOR
+cd calculator
 ```
 2.Run the calculator.py file using Python.
 ```bash
